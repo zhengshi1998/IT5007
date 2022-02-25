@@ -1,0 +1,36 @@
+div.bookList {
+  margin-top: 50px;
+  text-align: center;
+}
+div.bookList div.content {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  padding-bottom: 40px;
+}
+div.bookList div.content div.listInfo {
+  margin-top: 30px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+div.bookList div.content table.reservationList {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 30px;
+  border-width: 2px;
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+div.bookList div.content table.reservationList thead td {
+  height: 40px;
+  font-weight: bold;
+}
+div.bookList div.content table.reservationList tr {
+  height: 40px;
+}
+div.bookList div.content table.reservationList tr td {
+  border-width: 1px;
+  border-style: solid;
+}

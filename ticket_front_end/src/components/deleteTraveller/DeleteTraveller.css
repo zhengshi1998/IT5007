@@ -1,0 +1,24 @@
+div.deleteInfoWrapper {
+  margin-top: 70px;
+}
+div.deleteInfoWrapper form {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  border-width: 2px;
+  border-radius: 20px;
+}
+div.deleteInfoWrapper form label {
+  width: 100%;
+  text-align: left;
+}
+div.deleteInfoWrapper form button {
+  text-align: center;
+}
+div.deleteInfoWrapper form #privacy {
+  text-align: center;
+  color: orangered !important;
+}
+div.deleteInfoWrapper form #serialNumInfo {
+  text-align: center;
+  color: white !important;
+}

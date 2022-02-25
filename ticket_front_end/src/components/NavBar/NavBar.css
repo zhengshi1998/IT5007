@@ -1,0 +1,11 @@
+div.head {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+div.head div.welcome {
+  font-size: 25px;
+  font-weight: bold;
+  color: blanchedalmond;
+}
